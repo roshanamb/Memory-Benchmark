@@ -1,0 +1,5 @@
+D:\repo\Memory-Benchmark\StringBenchmark\obj\Release\net6.0\StringBenchmark.csproj.AssemblyReference.cache
+D:\repo\Memory-Benchmark\StringBenchmark\obj\Release\net6.0\StringBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Memory-Benchmark\StringBenchmark\obj\Release\net6.0\StringBenchmark.AssemblyInfoInputs.cache
+D:\repo\Memory-Benchmark\StringBenchmark\obj\Release\net6.0\StringBenchmark.AssemblyInfo.cs
+D:\repo\Memory-Benchmark\StringBenchmark\obj\Release\net6.0\StringBenchmark.csproj.CoreCompileInputs.cache
