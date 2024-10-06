@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj": {}
+    "d:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj": {}
   },
   "projects": {
-    "D:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj": {
+    "d:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj",
+        "projectUniqueName": "d:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj",
         "projectName": "StringBenchmark",
-        "projectPath": "D:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj",
+        "projectPath": "d:\\repo\\Memory-Benchmark\\StringBenchmark\\StringBenchmark.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\repo\\Memory-Benchmark\\StringBenchmark\\obj\\",
+        "outputPath": "d:\\repo\\Memory-Benchmark\\StringBenchmark\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
